@@ -6,7 +6,7 @@ This project is a working UI demo on using firebase authentication in ReactJS.
 
 ## Launch the React Application
 For this project to work, you need to install the following node modules:
-### 1. [FirebaseUI React Components](https://www.npmjs.com/package/firebaseui)
+### 1. [FirebaseUI React Components](https://www.npmjs.com/package/react-firebaseui)
 ### `npm i react-firebaseui`
 This will install the dependencies for firebaseui in react.
 
