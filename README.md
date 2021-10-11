@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-This project is a UI demo on using firebase authentication in ReactJS.
+This project is a working UI demo on using firebase authentication in ReactJS.
 
 ## Demo
 ![ss](https://user-images.githubusercontent.com/45277717/136733283-3de1bcb4-b622-4ec6-a720-45b501c1192d.PNG)
@@ -23,4 +23,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## Others
 This source code only works with v8 firebase. Installing the latest v9 firebase may encounter isssues.
 
+## References (Official Documentation)
+1. [Firebase - Sign in with a pre-built UI](https://firebase.google.com/docs/auth/web/firebaseui)
+2. [FirebaseUI for Web — Auth](https://www.npmjs.com/package/firebaseui)
 
