@@ -25,5 +25,5 @@ This source code only works with v8 firebase. Installing the latest v9 firebase 
 
 ## References (Official Documentation)
 1. [Firebase - Sign in with a pre-built UI](https://firebase.google.com/docs/auth/web/firebaseui)
-2. [FirebaseUI for Web — Auth](https://www.npmjs.com/package/firebaseui)
+2. [NPM - FirebaseUI for Web Auth](https://www.npmjs.com/package/firebaseui)
 
