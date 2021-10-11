@@ -21,7 +21,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Others
-This source code only works with v8 firebase. Installing the latest v9 firebase may encounter isssues.
+This source code only works with v8 firebase. Installing the latest v9 firebase may encounter issues.
 
 ## References (Official Documentation)
 1. [Firebase - Sign in with a pre-built UI](https://firebase.google.com/docs/auth/web/firebaseui)
